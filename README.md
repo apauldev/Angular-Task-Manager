@@ -1,3 +1,19 @@
+# Angular-Task-Manager
+Just a small task manager build for fun!!
+
+# Aim 
+Project is build to create an simple task manager.
+
+# Technolgies used
+Angular 20, Express with TypeScript
+
+# Requests
+Please open a request or let me know. Or you can open an issue and work on it yourself.
+
+# Installation
+TODO later
+
+
 # TaskManager
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
